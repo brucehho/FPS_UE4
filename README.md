@@ -5,7 +5,7 @@ Developed with Unreal Engine 4
 Blueprints
 
 hhb<br />
-![image](https://user-images.githubusercontent.com/30223380/129441967-27756c03-87b3-48d4-943a-c3e5f23931fd.png alt="drawing" width="200")
+![image](https://user-images.githubusercontent.com/30223380/129441967-27756c03-87b3-48d4-943a-c3e5f23931fd.png  width="200")
 
 
 
