@@ -6,33 +6,34 @@ Blueprints
 
 hhb
 
-<img src="D:\flashlightonBP.jpg" alt="flashlightonBP" style="zoom:50%;" />
 
-<img src="D:\simulatedamage.jpg" alt="simulatedamage" style="zoom:50%;" />
 
-<img src="D:\flashlightbattery.jpg" alt="flashlightbattery" style="zoom:50%;" />
+![aidamagedeath](D:\UE4linzaap\MyProject\BPpics\aidamagedeath.jpg)
 
-<img src="D:\playerhealth.jpg" alt="playerhealth" style="zoom: 67%;" />
+![airoaming](D:\UE4linzaap\MyProject\BPpics\airoaming.jpg)
 
-![playerlives](D:\playerlives.jpg)
+![aifollow](D:\UE4linzaap\MyProject\BPpics\aifollow.jpg)
 
-![playerrespawn](D:\playerrespawn.jpg)
+![livespickup](D:\UE4linzaap\MyProject\BPpics\livespickup.jpg)
 
-![playerthirst](D:\playerthirst.jpg)
+![airespawning](D:\UE4linzaap\MyProject\BPpics\airespawning.jpg)
 
-![playeractivity](D:\playeractivity.jpg)
+<img src="D:\UE4linzaap\MyProject\BPpics\playerhud.jpg" alt="playerhud" style="zoom:80%;" />
 
-<img src="D:\playerinputsprint.jpg" alt="playerinputsprint" style="zoom: 80%;" />
+<img src="D:\UE4linzaap\MyProject\BPpics\playerinputsprint.jpg" alt="playerinputsprint" style="zoom:80%;" />
 
-<img src="D:\playerhud.jpg" alt="playerhud" style="zoom:80%;" />
+![playeractivity](D:\UE4linzaap\MyProject\BPpics\playeractivity.jpg)
 
-<img src="D:\airespawning.jpg" alt="airespawning" style="zoom:80%;" />
+![playerthirst](D:\UE4linzaap\MyProject\BPpics\playerthirst.jpg)
 
-![livespickup](D:\livespickup.jpg)
+<img src="D:\UE4linzaap\MyProject\BPpics\playerrespawn.jpg" alt="playerrespawn" style="zoom:80%;" />
 
-![aifollow](D:\aifollow.jpg)
+![playerlives](D:\UE4linzaap\MyProject\BPpics\playerlives.jpg)
 
-![airoaming](D:\airoaming.jpg)
+![playerhealth](D:\UE4linzaap\MyProject\BPpics\playerhealth.jpg)
 
-![aidamagedeath](D:\aidamagedeath.jpg)
+![flashlightbattery](D:\UE4linzaap\MyProject\BPpics\flashlightbattery.jpg)
 
+<img src="D:\UE4linzaap\MyProject\BPpics\simulatedamage.jpg" alt="simulatedamage" style="zoom:67%;" />
+
+<img src="D:\UE4linzaap\MyProject\BPpics\flashlightonBP.jpg" alt="flashlightonBP" style="zoom:67%;" />
