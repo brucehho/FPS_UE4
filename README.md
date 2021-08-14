@@ -5,7 +5,7 @@ Developed with Unreal Engine 4
 Blueprints
 
 hhb
-![image](https://user-images.githubusercontent.com/30223380/129441820-a3daaa13-fd0f-464a-9d79-44ec7694e83f.png)
+![image](https://user-images.githubusercontent.com/30223380/129441820-a3daaa13-fd0f-464a-9d79-44ec7694e83f.png style="zoom:80%")
 
 
 ![image](D:\UE4linzaap\MyProject\BPpics\aidamagedeath.jpg)
