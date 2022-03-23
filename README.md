@@ -1,6 +1,5 @@
 # 
 
-Developed with Unreal Engine 4
 
 ![image](https://github.com/brucehho/FPS_UE4/blob/master/Screenshot01.jpg)
 
